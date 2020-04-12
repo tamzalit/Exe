@@ -1,3 +1,0 @@
-C:\Users\lenovo\source\repos\Exercice1.2.5\obj\Debug\Exercice1.2.5.njsprojAssemblyReference.cache
-C:\Users\lenovo\source\repos\Exercice1.2.5\obj\Debug\Exercice1.2.5.njsproj.CoreCompileInputs.cache
-C:\Users\lenovo\source\repos\Exercice1.2.5\bin\Microsoft.NodejsTools.WebRole.dll
