@@ -1,3 +1,0 @@
-C:\Users\lenovo\source\repos\merkel\obj\Debug\merkel.njsprojAssemblyReference.cache
-C:\Users\lenovo\source\repos\merkel\obj\Debug\merkel.njsproj.CoreCompileInputs.cache
-C:\Users\lenovo\source\repos\merkel\bin\Microsoft.NodejsTools.WebRole.dll

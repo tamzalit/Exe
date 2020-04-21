@@ -1,0 +1,12 @@
+{
+  "name": "exercice1.2.8",
+  "version": "0.0.0",
+  "description": "Exercice1.2.8",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
